@@ -2,13 +2,13 @@ Tarea 1
 
 Especificación de requisitos y repartición de tareas.
 
-Requisitos : 
+Requisitos: 
 
 Crear un LOG IN, en el cual nos quedamos con el nombre de usuario. 
 
 Al inicar el programa saluda al usuario, ejemplo: "Hola juanito"
 
-Debajo tenemos que crear un boton llamado: "Calcular salario"
+Debajo tenemos que crear un boton llamado: "Calcular salario".
 
 Salida esperada:
 
