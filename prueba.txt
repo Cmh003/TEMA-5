@@ -2,7 +2,7 @@ Tarea 1
 
 Especificación de requisitos y repartición de tareas.
 
-Requisitos: 
+Requisitos : 
 
 Crear un LOG IN, en el cual nos quedamos con el nombre de usuario. 
 
