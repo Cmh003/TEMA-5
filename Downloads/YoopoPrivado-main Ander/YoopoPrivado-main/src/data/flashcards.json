@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "temaId": 101,
+    "anverso": "¿Cuáles son las 4 clases de empleados públicos según el TREBEP?",
+    "reverso": "1. De carrera\n2. Interinos\n3. Laboral\n4. Eventual",
+    "justificacion": "Artículo 8.2 TREBEP. Recuerda la regla mnemotécnica CILE."
+  },
+  {
+    "id": 2,
+    "temaId": 101,
+    "anverso": "¿Qué funciones están reservadas EXCLUSIVAMENTE a los funcionarios públicos?",
+    "reverso": "Las que implican participación directa o indirecta en el ejercicio de potestades públicas o salvaguardia de intereses generales.",
+    "justificacion": "Artículo 9.2 TREBEP. Ni el personal laboral ni el eventual pueden ejercer autoridad pública."
+  },
+  {
+    "id": 3,
+    "temaId": 101,
+    "anverso": "¿Cuál es el plazo máximo normativo de un interino nombrado por existencia de vacante?",
+    "reverso": "Un máximo de TRES años.",
+    "justificacion": "Artículo 10.1.a) TREBEP. Transcurrido este tiempo se produce el fin de la interinidad (salvo que el proceso selectivo quede desierto)."
+  },
+  {
+    "id": 4,
+    "temaId": 101,
+    "anverso": "¿Cuál es el plazo máximo de un nombramiento interino para la ejecución de programas de carácter temporal?",
+    "reverso": "Tres años, ampliables hasta doce meses más (por leyes de Función Pública).",
+    "justificacion": "Artículo 10.1.c) TREBEP."
+  },
+  {
+    "id": 5,
+    "temaId": 101,
+    "anverso": "¿Cuál es el plazo máximo de nombramiento de un interino por exceso o acumulación de tareas?",
+    "reverso": "Máximo de NUEVE meses, dentro de un periodo de DIECIOCHO meses.",
+    "justificacion": "Artículo 10.1.d) TREBEP. Recuerda la proporción: la mitad del periodo (9 de 18)."
+  },
+  {
+    "id": 6,
+    "temaId": 101,
+    "anverso": "¿Puede el tiempo trabajado como personal eventual contar como mérito para acceso o promoción interna?",
+    "reverso": "NO, en ningún caso.",
+    "justificacion": "Artículo 12.4 TREBEP. El personal eventual realiza funciones de confianza o asesoramiento especial, no es un mérito puntuable."
+  },
+  {
+    "id": 7,
+    "temaId": 101,
+    "anverso": "¿En qué consiste la 'carrera horizontal' de los funcionarios?",
+    "reverso": "En la progresión de grado, categoría o escalón SIN necesidad de cambiar de puesto de trabajo.",
+    "justificacion": "Artículo 16.3.a) TREBEP."
+  },
+  {
+    "id": 8,
+    "temaId": 101,
+    "anverso": "¿Cuál es la antigüedad mínima exigida en servicio activo para poder acceder a la Promoción Interna?",
+    "reverso": "Al menos DOS AÑOS de servicio activo en el inferior Subgrupo o Grupo.",
+    "justificacion": "Artículo 18.2 TREBEP."
+  },
+  {
+    "id": 9,
+    "temaId": 101,
+    "anverso": "¿Cuáles son las dos únicas retribuciones que se consideran 'Básicas' en el TREBEP?",
+    "reverso": "1. El Sueldo\n2. Los Trienios",
+    "justificacion": "Artículo 23 TREBEP. Las pagas extra contienen retribuciones básicas y complementarias, pero no son 'retribuciones básicas' per se."
+  },
+  {
+    "id": 10,
+    "temaId": 101,
+    "anverso": "¿Cuántos días de permiso corresponden por fallecimiento de familiar de 1º grado (misma y distinta localidad)?",
+    "reverso": "Misma localidad: 3 días hábiles\nDistinta localidad: 5 días hábiles",
+    "justificacion": "Artículo 48.a) TREBEP."
+  },
+  {
+    "id": 11,
+    "temaId": 101,
+    "anverso": "¿Cuántos días de permiso corresponden por fallecimiento de familiar de 2º grado (misma y distinta localidad)?",
+    "reverso": "Misma localidad: 2 días hábiles\nDistinta localidad: 4 días hábiles",
+    "justificacion": "Artículo 48.a) TREBEP. Truco: un día menos que para el de primer grado."
+  },
+  {
+    "id": 12,
+    "temaId": 101,
+    "anverso": "¿Cuántos días se otorgan de permiso por traslado de domicilio sin cambio de residencia?",
+    "reverso": "UN día.",
+    "justificacion": "Artículo 48.b) TREBEP."
+  },
+  {
+    "id": 13,
+    "temaId": 101,
+    "anverso": "¿En qué consiste el permiso por lactancia de un hijo menor de doce meses?",
+    "reverso": "En UNA HORA de ausencia del trabajo (que podrá dividirse en dos fracciones).",
+    "justificacion": "Artículo 48.f) TREBEP. Puede sustituirse por reducción de jornada en media hora (inicio/fin) o acumularse en jornadas completas."
+  },
+  {
+    "id": 14,
+    "temaId": 101,
+    "anverso": "¿Cuál es la reducción de jornada por familiar de 1º grado por enfermedad muy grave?",
+    "reverso": "Reducción de hasta el 50% de la jornada, retribuida, por un plazo máximo de UN MES.",
+    "justificacion": "Artículo 48.i) TREBEP."
+  },
+  {
+    "id": 15,
+    "temaId": 101,
+    "anverso": "¿Cuántos días otorga el TREBEP como norma general para asuntos particulares?",
+    "reverso": "SEIS días al año.",
+    "justificacion": "Artículo 48.k) TREBEP. Conocidos coloquialmente como 'moscosos'."
+  },
+  {
+    "id": 16,
+    "temaId": 101,
+    "anverso": "¿Cuántos días de permiso se otorgan por matrimonio o registro de pareja de hecho?",
+    "reverso": "QUINCE días.",
+    "justificacion": "Artículo 48.l) TREBEP."
+  },
+  {
+    "id": 17,
+    "temaId": 101,
+    "anverso": "En el permiso por nacimiento para la madre (16 semanas), ¿cuántas son ininterrumpidas y de descanso obligatorio?",
+    "reverso": "Las SEIS semanas inmediatas posteriores al parto.",
+    "justificacion": "Artículo 49.a) TREBEP. El resto (10 semanas) pueden disfrutarse ininterrumpidamente o por periodos hasta que el hijo cumpla 12 meses."
+  },
+  {
+    "id": 18,
+    "temaId": 101,
+    "anverso": "En adopción internacional, si es necesario desplazamiento previo al país, ¿a qué permiso extra hay derecho?",
+    "reverso": "Un permiso de hasta DOS MESES cobrando solo las retribuciones básicas.",
+    "justificacion": "Artículo 49.b) TREBEP."
+  },
+  {
+    "id": 19,
+    "temaId": 101,
+    "anverso": "Permiso por cuidado de hijo con cáncer. ¿Hasta qué edad máxima se puede extender la reducción de jornada?",
+    "reverso": "Hasta los 23 años (o hasta los 26 si acredita discapacidad ≥ 65% antes de los 23).",
+    "justificacion": "Artículo 49.e) TREBEP. El cumplimiento de los 18 años no es causa de extinción si persiste la necesidad."
+  },
+  {
+    "id": 20,
+    "temaId": 101,
+    "anverso": "¿Cuántos días de vacaciones anuales retribuidas reconoce el TREBEP?",
+    "reverso": "VEINTIDÓS días hábiles.",
+    "justificacion": "Artículo 50.1 TREBEP. A estos efectos, los sábados no se consideran hábiles."
+  },
+  {
+    "id": 21,
+    "temaId": 101,
+    "anverso": "Si hay incapacidad temporal que impide iniciar las vacaciones, ¿cuál es el plazo máximo para disfrutarlas después?",
+    "reverso": "Que no hayan transcurrido más de 18 MESES a partir del final del año en que se hayan originado.",
+    "justificacion": "Artículo 50.2 TREBEP."
+  },
+  {
+    "id": 22,
+    "temaId": 101,
+    "anverso": "¿Cuál es la edad mínima general exigida para el acceso al empleo público?",
+    "reverso": "Tener cumplidos DIECISÉIS años.",
+    "justificacion": "Artículo 56.1.c) TREBEP."
+  },
+  {
+    "id": 23,
+    "temaId": 101,
+    "anverso": "De las vacantes en empleo público, ¿qué porcentaje de reserva mínimo hay para personas con discapacidad?",
+    "reverso": "Un cupo NO inferior al 7% (del cual, al menos el 2% será para discapacidad intelectual).",
+    "justificacion": "Artículo 59.1 TREBEP."
+  },
+  {
+    "id": 24,
+    "temaId": 101,
+    "anverso": "¿Quiénes tienen PROHIBIDO expresamente formar parte de los órganos de selección (tribunales)?",
+    "reverso": "1. Personal de elección/designación política.\n2. Funcionarios interinos.\n3. Personal eventual.",
+    "justificacion": "Artículo 60.2 TREBEP. Para garantizar la independencia e imparcialidad."
+  },
+  {
+    "id": 25,
+    "temaId": 101,
+    "anverso": "¿Qué tres sistemas selectivos establece el TREBEP para funcionarios de carrera?",
+    "reverso": "1. Oposición.\n2. Concurso-oposición.\n3. Concurso (solo excepcionalmente por Ley).",
+    "justificacion": "Artículo 61.6 TREBEP."
+  },
+  {
+    "id": 26,
+    "temaId": 101,
+    "anverso": "¿Cuál es el ÚLTIMO requisito necesario para adquirir la condición de funcionario de carrera?",
+    "reverso": "La TOMA DE POSESIÓN dentro del plazo que se establezca.",
+    "justificacion": "Artículo 62.1.d) TREBEP."
+  },
+  {
+    "id": 27,
+    "temaId": 101,
+    "anverso": "¿Se puede aceptar la renuncia voluntaria si el funcionario está sujeto a un expediente disciplinario?",
+    "reverso": "NO, no podrá ser aceptada.",
+    "justificacion": "Artículo 64.2 TREBEP. Tampoco se acepta si hay dictado auto de procesamiento criminal."
+  },
+  {
+    "id": 28,
+    "temaId": 101,
+    "anverso": "¿Qué requisito necesita la pena de inhabilitación absoluta o especial para producir la pérdida de condición de funcionario?",
+    "reverso": "Que la sentencia que la imponga tenga carácter FIRME.",
+    "justificacion": "Artículo 63.e) TREBEP y Art. 66 TREBEP."
+  },
+  {
+    "id": 29,
+    "temaId": 101,
+    "anverso": "¿Cuál es la edad de jubilación forzosa general y hasta cuándo puede prolongarse?",
+    "reverso": "Forzosa: 65 años.\nProlongación máxima: Hasta cumplir los 70 años.",
+    "justificacion": "Artículo 67.3 TREBEP."
+  },
+  {
+    "id": 30,
+    "temaId": 101,
+    "anverso": "¿Qué exige el TREBEP para solicitar la Excedencia Voluntaria por Interés Particular?",
+    "reverso": "Haber prestado servicios efectivos durante los CINCO AÑOS inmediatamente anteriores.",
+    "justificacion": "Artículo 89.2 TREBEP (Nota: Las Leyes de Función Pública autonómicas pueden establecer duraciones menores, como la CM)."
+  },
+  {
+    "id": 31,
+    "temaId": 101,
+    "anverso": "En la Ley 1/1986 (Comunidad de Madrid), ¿cuál es el tiempo mínimo de permanencia en la Excedencia por Interés Particular?",
+    "reverso": "No se podrá permanecer menos de DOS AÑOS continuados.",
+    "justificacion": "Artículo 59.2.b) de la Ley 1/1986 de la CM."
+  },
+  {
+    "id": 32,
+    "temaId": 101,
+    "anverso": "En la Ley 1/1986 (CM), ¿cuál es la duración mínima y máxima de la Excedencia por Agrupación Familiar?",
+    "reverso": "Duración mínima: 2 años.\nDuración máxima: 15 años.",
+    "justificacion": "Artículo 59.2.c) de la Ley 1/1986 de la CM."
+  },
+  {
+    "id": 33,
+    "temaId": 101,
+    "anverso": "En el TREBEP, ¿cuál es la duración máxima de la excedencia por cuidado de hijos?",
+    "reverso": "No superior a TRES AÑOS por cada hijo.",
+    "justificacion": "Artículo 89.4 TREBEP."
+  },
+  {
+    "id": 34,
+    "temaId": 101,
+    "anverso": "En la Ley 1/1986 (CM), ¿cuál es la duración máxima de la excedencia por cuidado de familiares (hasta 2º grado)?",
+    "reverso": "Duración no superior a UN AÑO.",
+    "justificacion": "Artículo 59 bis.2 Ley 1/1986. (Cuidado: en el TREBEP estatal son 3 años, prevalece la ley autonómica específica)."
+  },
+  {
+    "id": 35,
+    "temaId": 101,
+    "anverso": "En la excedencia por Violencia de Género, ¿cuánto tiempo hay reserva del puesto de trabajo según el TREBEP?",
+    "reverso": "Durante los SEIS primeros meses.",
+    "justificacion": "Artículo 89.5 TREBEP. Prorrogables por periodos de 3 meses (máximo 18) si las actuaciones judiciales lo exigen."
+  },
+  {
+    "id": 36,
+    "temaId": 101,
+    "anverso": "¿Qué límite temporal tiene la Sanción de Suspensión Firme de Funciones (y empleo/sueldo laboral)?",
+    "reverso": "Una duración máxima de SEIS AÑOS.",
+    "justificacion": "Artículo 90.2 y 96.1.c) TREBEP."
+  },
+  {
+    "id": 37,
+    "temaId": 101,
+    "anverso": "¿Cuál es la duración máxima de la Suspensión Provisional como medida cautelar en un expediente disciplinario?",
+    "reverso": "No podrá exceder de 6 MESES, salvo en caso de paralización imputable al interesado.",
+    "justificacion": "Artículo 98.3 TREBEP."
+  },
+  {
+    "id": 38,
+    "temaId": 101,
+    "anverso": "¿Qué retribuciones cobra un funcionario en Suspensión Provisional en la Ley 1/1986 (CM)?",
+    "reverso": "Percibirá el 75% de sus retribuciones básicas (+ prestación por hijo a cargo).",
+    "justificacion": "Artículo 64.4 de la Ley 1/1986 CM. (Diferente del TREBEP estatal que le otorga el 100% de las básicas)."
+  },
+  {
+    "id": 39,
+    "temaId": 101,
+    "anverso": "¿Qué ocurre si el suspenso provisional (Ley 1/1986 CM) NO comparece en el expediente disciplinario?",
+    "reverso": "Que NO se le acreditará haber alguno (deja de cobrar sueldo).",
+    "justificacion": "Artículo 64.4 de la Ley 1/1986 CM."
+  },
+  {
+    "id": 40,
+    "temaId": 101,
+    "anverso": "¿Cuándo prescribe una falta MUY GRAVE según el TREBEP (estatal)?",
+    "reverso": "A los TRES AÑOS.",
+    "justificacion": "Artículo 97.1 TREBEP."
+  },
+  {
+    "id": 41,
+    "temaId": 101,
+    "anverso": "¿Cuándo prescribe una falta MUY GRAVE según la Ley 1/1986 (Comunidad de Madrid)?",
+    "reverso": "A los SEIS AÑOS.",
+    "justificacion": "Artículo 86.1 de la Ley 1/1986 CM. ¡Dato trampa habitual en los exámenes de Madrid!"
+  },
+  {
+    "id": 42,
+    "temaId": 101,
+    "anverso": "¿Cuándo prescriben las faltas GRAVES tanto en el TREBEP como en la Ley 1/1986 (CM)?",
+    "reverso": "A los DOS AÑOS.",
+    "justificacion": "Coinciden ambas normas: Art. 97.1 TREBEP y Art 86.1 Ley 1/1986 CM."
+  },
+  {
+    "id": 43,
+    "temaId": 101,
+    "anverso": "¿Cuándo prescriben las faltas LEVES en el TREBEP y en la Ley 1/1986 (CM) respectivamente?",
+    "reverso": "En TREBEP: A los 6 MESES.\nEn Ley 1/1986 (CM): A los 2 MESES.",
+    "justificacion": "Art. 97.1 TREBEP y Art 86.1 Ley 1/1986 CM. ¡Ojo a la diferencia autonómica!"
+  },
+  {
+    "id": 44,
+    "temaId": 101,
+    "anverso": "En la CM (Ley 1/1986), ¿a qué edad del menor finaliza el derecho a la reducción de 1/3 o 1/2 jornada por guarda legal?",
+    "reverso": "Al ser menor de 6 AÑOS.",
+    "justificacion": "Artículo 71.2 de la Ley 1/1986 CM. (El TREBEP es más garantista y dice 12 años, pero la CM tiene esta redacción específica)."
+  },
+  {
+    "id": 45,
+    "temaId": 101,
+    "anverso": "¿Qué Órgano es el ÚNICO competente para acordar la separación del servicio de un funcionario en la Comunidad de Madrid?",
+    "reverso": "El Consejo de Gobierno de la Comunidad de Madrid.",
+    "justificacion": "Artículo 85.3 de la Ley 1/1986 CM."
+  },
+  {
+    "id": 46,
+    "temaId": 101,
+    "anverso": "El \"Abandono del servicio\", ¿qué tipo de falta disciplinaria es?",
+    "reverso": "Falta MUY GRAVE.",
+    "justificacion": "Artículo 95.2.c) TREBEP y Art. 83.c Ley 1/1986 CM."
+  },
+  {
+    "id": 47,
+    "temaId": 101,
+    "anverso": "¿A qué falta equivale en la CM (Ley 1/1986) cometer 3 faltas graves en un año?",
+    "reverso": "Pasa a constituir una sola falta MUY GRAVE.",
+    "justificacion": "Artículo 83.ñ) Ley 1/1986 CM: 'Haber sido sancionado por la comisión de tres faltas graves en el período de un año'."
+  },
+  {
+    "id": 48,
+    "temaId": 101,
+    "anverso": "¿Qué dice textualmente la Ley 1/1986 de la CM sobre la duración de las vacaciones anuales?",
+    "reverso": "Tienen 'UN MES de duración' (o los días en proporción si el tiempo es menor).",
+    "justificacion": "Artículo 68 de la Ley 1/1986 CM. (Importante conocer la literalidad, aunque el TREBEP marque 22 hábiles)."
+  },
+  {
+    "id": 49,
+    "temaId": 101,
+    "anverso": "En la CM (Ley 1/1986), ¿quién fija el máximo de duración de los permisos por nacimiento, traslado o matrimonio?",
+    "reverso": "El Consejero de la Presidencia.",
+    "justificacion": "Artículo 69.1 de la Ley 1/1986 CM. Se hace previo informe del Consejo Regional de la Función Pública."
+  },
+  {
+    "id": 50,
+    "temaId": 101,
+    "anverso": "¿Qué plazo de silencio administrativo hay para que se entienda aceptada la renuncia en la CM (Ley 1/1986)?",
+    "reverso": "Silencio positivo a los 15 DÍAS siguientes a su solicitud.",
+    "justificacion": "Artículo 29.2 de la Ley 1/1986 CM: Si no hubiese declaración expresa en 15 días, se entiende concedida."
+  }
+]

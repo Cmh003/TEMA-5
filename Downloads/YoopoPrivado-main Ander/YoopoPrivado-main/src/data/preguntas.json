@@ -1,0 +1,1304 @@
+[
+  {
+    "id": 1,
+    "temaId": 101,
+    "enunciado": "¿Cómo se clasifican los empleados públicos según el artículo 8 del TREBEP?",
+    "opciones": [
+      "Funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual",
+      "Funcionarios de carrera, personal estatutario, personal laboral y personal eventual",
+      "Funcionarios fijos, funcionarios temporales, personal laboral y personal directivo",
+      "Funcionarios de carrera, personal interino y personal directivo profesional"
+    ],
+    "correcta": 0,
+    "justificacion": "Según el artículo 8.2 del TREBEP, los empleados públicos se clasifican en: a) Funcionarios de carrera, b) Funcionarios interinos, c) Personal laboral, y d) Personal eventual."
+  },
+  {
+    "id": 2,
+    "temaId": 101,
+    "enunciado": "¿A quiénes corresponde exclusivamente el ejercicio de funciones que impliquen participación directa o indirecta en el ejercicio de potestades públicas?",
+    "opciones": [
+      "Al personal eventual y directivo",
+      "A los funcionarios públicos",
+      "A los empleados públicos con más de cinco años de antigüedad",
+      "Al personal laboral fijo"
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 9.2 del TREBEP reserva en todo caso el ejercicio de funciones que impliquen la participación en potestades públicas o salvaguardia de intereses generales exclusivamente a los funcionarios públicos."
+  },
+  {
+    "id": 3,
+    "temaId": 101,
+    "enunciado": "En el caso de funcionarios interinos nombrados por existencia de plazas vacantes, ¿cuál es el plazo máximo normativo que pueden permanecer antes de que se produzca el fin de la relación de interinidad, como regla general?",
+    "opciones": [
+      "Un máximo de nueve meses dentro de un periodo de dieciocho meses",
+      "Un máximo de dos años",
+      "Un máximo de tres años",
+      "Un máximo de cuatro años prorrogables"
+    ],
+    "correcta": 2,
+    "justificacion": "Según el artículo 10.1.a) del TREBEP, los nombramientos por vacante se darán cuando no sea posible su cobertura por funcionarios de carrera, por un máximo de tres años."
+  },
+  {
+    "id": 4,
+    "temaId": 101,
+    "enunciado": "El nombramiento derivado de procedimientos de selección de personal funcionario interino:",
+    "opciones": [
+      "Dará lugar a la consolidación como funcionario de carrera a los tres años",
+      "Dará lugar al reconocimiento de la condición de funcionario de carrera previo concurso de méritos",
+      "En ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera",
+      "Otorgará una preferencia absoluta en los siguientes procesos selectivos"
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 10.2 del TREBEP es tajante: 'El nombramiento derivado de estos procedimientos de selección en ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera'."
+  },
+  {
+    "id": 5,
+    "temaId": 101,
+    "enunciado": "¿Qué duración máxima pueden tener los nombramientos de interinos para la ejecución de programas de carácter temporal?",
+    "opciones": [
+      "Tres años improrrogables",
+      "Nueve meses",
+      "Dos años, ampliables a tres",
+      "Tres años, ampliable hasta doce meses más por las leyes de Función Pública que se dicten en desarrollo"
+    ],
+    "correcta": 3,
+    "justificacion": "El artículo 10.1.c) establece que los programas de carácter temporal no podrán tener una duración superior a tres años, ampliable hasta doce meses más por las leyes de Función Pública de desarrollo."
+  },
+  {
+    "id": 6,
+    "temaId": 101,
+    "enunciado": "Respecto al personal laboral, las leyes de Función Pública establecerán los criterios para determinar qué puestos pueden desempeñar, respetando en todo caso:",
+    "opciones": [
+      "La antigüedad del trabajador",
+      "Lo establecido en el artículo 9.2 sobre el ejercicio de potestades públicas reservadas a funcionarios",
+      "Los acuerdos de los convenios colectivos estatales",
+      "El número de efectivos totales de la Administración"
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 11.2 del TREBEP obliga a respetar lo establecido en el artículo 9.2 (la reserva exclusiva de funciones que impliquen ejercicio de autoridad o potestades públicas a los funcionarios)."
+  },
+  {
+    "id": 7,
+    "temaId": 101,
+    "enunciado": "El personal eventual realiza funciones expresamente calificadas como:",
+    "opciones": [
+      "Administrativas y de gestión",
+      "De confianza o asesoramiento especial",
+      "Técnicas y de inspección",
+      "Directivas y de coordinación de departamentos"
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 12.1 del TREBEP define al personal eventual como aquel que realiza funciones expresamente calificadas como de confianza o asesoramiento especial."
+  },
+  {
+    "id": 8,
+    "temaId": 101,
+    "enunciado": "¿Puede la condición de personal eventual constituir mérito para el acceso a la Función Pública?",
+    "opciones": [
+      "Sí, computará en la fase de concurso",
+      "Sí, pero solo para el acceso a puestos del mismo nivel",
+      "No, no podrá constituir mérito para el acceso a la Función Pública ni para la promoción interna",
+      "Exclusivamente en los procesos de promoción interna"
+    ],
+    "correcta": 2,
+    "justificacion": "Según el artículo 12.4 del TREBEP, la condición de personal eventual no podrá constituir mérito para el acceso a la Función Pública o para la promoción interna en ningún caso."
+  },
+  {
+    "id": 9,
+    "temaId": 101,
+    "enunciado": "¿Cuál de los siguientes es considerado un derecho individual de los empleados públicos?",
+    "opciones": [
+      "A la huelga",
+      "A la libre asociación profesional",
+      "Al planteamiento de conflictos colectivos de trabajo",
+      "A la formación continua y a la actualización permanente de sus conocimientos, preferentemente en horario laboral"
+    ],
+    "correcta": 3,
+    "justificacion": "La formación continua es un derecho individual (Art. 14.g). La huelga, asociación y conflictos colectivos son derechos individuales ejercidos de forma colectiva (Art. 15)."
+  },
+  {
+    "id": 10,
+    "temaId": 101,
+    "enunciado": "En cuanto al uso de dispositivos digitales puestos a disposición del empleado público, este tiene derecho:",
+    "opciones": [
+      "A la libre disposición para uso personal",
+      "A ceder su uso a familiares directos",
+      "A la intimidad en su uso frente al uso de dispositivos de videovigilancia y geolocalización, así como a la desconexión digital",
+      "A rechazar su uso si no pertenece al Grupo A"
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 14.j bis) consagra el derecho a la intimidad en el uso de dispositivos digitales, frente a videovigilancia y geolocalización, y el derecho a la desconexión digital."
+  },
+  {
+    "id": 11,
+    "temaId": 101,
+    "enunciado": "¿Qué derecho tienen los empleados públicos que se ejerce de forma colectiva?",
+    "opciones": [
+      "A la inamovilidad en la condición de funcionario",
+      "Al ejercicio de la huelga, con la garantía del mantenimiento de los servicios esenciales de la comunidad",
+      "A percibir retribuciones e indemnizaciones",
+      "A la progresión en la carrera profesional"
+    ],
+    "correcta": 1,
+    "justificacion": "Según el artículo 15.c) del TREBEP, el ejercicio de la huelga es un derecho individual que se ejerce de forma colectiva."
+  },
+  {
+    "id": 12,
+    "temaId": 101,
+    "enunciado": "La carrera profesional que consiste en el ascenso desde un cuerpo o escala de un Subgrupo a otro superior se denomina:",
+    "opciones": [
+      "Carrera horizontal",
+      "Carrera vertical",
+      "Promoción interna horizontal",
+      "Promoción interna vertical"
+    ],
+    "correcta": 3,
+    "justificacion": "El artículo 16.3.c) define la promoción interna vertical como el ascenso desde un cuerpo o escala de un Subgrupo a otro superior."
+  },
+  {
+    "id": 13,
+    "temaId": 101,
+    "enunciado": "La carrera horizontal de los funcionarios de carrera consiste en:",
+    "opciones": [
+      "El ascenso en la estructura de puestos de trabajo",
+      "El acceso a cuerpos del mismo Subgrupo profesional",
+      "La progresión de grado, categoría o escalón sin necesidad de cambiar de puesto de trabajo",
+      "El acceso temporal a funciones directivas"
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 16.3.a) indica que la carrera horizontal es la progresión de grado, categoría o escalón sin necesidad de cambiar de puesto de trabajo."
+  },
+  {
+    "id": 14,
+    "temaId": 101,
+    "enunciado": "Para la promoción interna, los funcionarios deberán poseer los requisitos exigidos para el ingreso y tener una antigüedad de servicio activo en el inferior Subgrupo de al menos:",
+    "opciones": [
+      "Un año",
+      "Dos años",
+      "Tres años",
+      "Cinco años"
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 18.2 del TREBEP exige tener una antigüedad de al menos dos años de servicio activo en el inferior Subgrupo (o Grupo) para poder acceder a la promoción interna."
+  },
+  {
+    "id": 15,
+    "temaId": 101,
+    "enunciado": "La continuidad en un puesto de trabajo obtenido por concurso quedará vinculada a:",
+    "opciones": [
+      "La aprobación anual del presupuesto",
+      "La superación de una prueba de conocimientos técnicos bianual",
+      "La evaluación del desempeño de acuerdo con los sistemas de evaluación que determine la Administración",
+      "La voluntad de permanencia del funcionario"
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 20.4 vincula expresamente la continuidad en un puesto obtenido por concurso a la evaluación del desempeño."
+  },
+  {
+    "id": 16,
+    "temaId": 101,
+    "enunciado": "Las pagas extraordinarias de los funcionarios serán dos al año y comprenderán:",
+    "opciones": [
+      "Exclusivamente el importe de las retribuciones básicas",
+      "Una mensualidad de retribuciones básicas y de la totalidad de las complementarias, salvo las vinculadas al rendimiento o servicios extraordinarios",
+      "El 80% de las retribuciones totales",
+      "El importe equivalente a dos meses de sueldo base sin trienios"
+    ],
+    "correcta": 1,
+    "justificacion": "Según el artículo 22.4, consisten en una mensualidad de retribuciones básicas y de todas las complementarias, salvo las relativas al rendimiento (c) o a horas extraordinarias (d)."
+  },
+  {
+    "id": 17,
+    "temaId": 101,
+    "enunciado": "¿De qué están integradas única y exclusivamente las retribuciones básicas según la Ley de Presupuestos Generales del Estado?",
+    "opciones": [
+      "El sueldo y el complemento de destino",
+      "El sueldo y los trienios",
+      "El sueldo, los trienios y la productividad",
+      "El complemento específico y los servicios extraordinarios"
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 23 del TREBEP limita las retribuciones básicas única y exclusivamente al sueldo y los trienios."
+  },
+  {
+    "id": 18,
+    "temaId": 101,
+    "enunciado": "La retribución complementaria referida al grado de interés, iniciativa o esfuerzo con que el funcionario desempeña su trabajo y los resultados obtenidos se identifica en el TREBEP en el artículo 24, apartado:",
+    "opciones": [
+      "a)",
+      "b)",
+      "c)",
+      "d)"
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 24 clasifica los complementos: a) Carrera, b) Dificultad/Condiciones (Específico), c) Rendimiento/Iniciativa (Productividad), d) Servicios Extraordinarios."
+  },
+  {
+    "id": 19,
+    "temaId": 101,
+    "enunciado": "Los funcionarios interinos percibirán, como norma general, todas las retribuciones complementarias señaladas en el art. 24 EXCEPTO:",
+    "opciones": [
+      "Las relativas a la especial dificultad técnica o responsabilidad del puesto",
+      "Las vinculadas a servicios extraordinarios fuera de la jornada",
+      "Las derivadas de la progresión alcanzada dentro del sistema de carrera administrativa",
+      "Las vinculadas al grado de interés, iniciativa y rendimiento"
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 25.1 indica que los interinos percibirán las retribuciones b), c) y d) del art 24, quedando excluida la a) referente a la carrera administrativa."
+  },
+  {
+    "id": 20,
+    "temaId": 101,
+    "enunciado": "Respecto a la deducción de retribuciones por ejercicio del derecho de huelga, dicha deducción:",
+    "opciones": [
+      "Tendrá carácter de sanción disciplinaria grave",
+      "Afectará a la cotización y prestaciones sociales",
+      "No devengará haberes y no tendrá carácter de sanción ni afectará al régimen respectivo de sus prestaciones sociales",
+      "Solo se aplicará a partir del tercer día de huelga continuada"
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 30.2 aclara que quienes ejerciten el derecho a huelga no devengarán haberes, pero esta deducción no tiene carácter de sanción ni afecta a prestaciones sociales."
+  },
+  {
+    "id": 21,
+    "temaId": 101,
+    "enunciado": "La prestación del servicio mediante teletrabajo (Art. 47 bis):",
+    "opciones": [
+      "Será incompatible con la modalidad presencial",
+      "Podrá imponerse forzosamente por necesidades organizativas de urgencia",
+      "Deberá ser expresamente autorizada y tendrá carácter voluntario y reversible salvo supuestos excepcionales debidamente justificados",
+      "Es un derecho incondicionado del empleado que no requiere autorización expresa"
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 47 bis.2 exige autorización expresa y recalca su carácter voluntario y reversible (salvo en supuestos excepcionales justificados)."
+  },
+  {
+    "id": 22,
+    "temaId": 101,
+    "enunciado": "En el caso de fallecimiento de un familiar de primer grado de afinidad cuando el suceso se produzca en distinta localidad, el permiso aplicable es de:",
+    "opciones": [
+      "Dos días hábiles",
+      "Tres días hábiles",
+      "Cuatro días hábiles",
+      "Cinco días hábiles"
+    ],
+    "correcta": 3,
+    "justificacion": "Según el artículo 48.a), el fallecimiento de familiar de primer grado da derecho a 3 días hábiles en la misma localidad y a 5 días hábiles si es en distinta localidad."
+  },
+  {
+    "id": 23,
+    "temaId": 101,
+    "enunciado": "El permiso por asuntos particulares para los funcionarios públicos, según el TREBEP, se establece por norma general en:",
+    "opciones": [
+      "Cuatro días al año",
+      "Cinco días al año",
+      "Seis días al año",
+      "Siete días al año"
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 48.k) del TREBEP fija el permiso por asuntos particulares en 6 días al año como norma general estatal."
+  },
+  {
+    "id": 24,
+    "temaId": 101,
+    "enunciado": "Por la constitución formalizada por documento público de pareja de hecho, los funcionarios públicos tendrán un permiso de:",
+    "opciones": [
+      "Cinco días",
+      "Diez días",
+      "Quince días",
+      "Veinte días"
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 48.l) iguala el matrimonio y la constitución formalizada de pareja de hecho otorgando un permiso de quince días."
+  },
+  {
+    "id": 25,
+    "temaId": 101,
+    "enunciado": "El permiso por nacimiento para la madre biológica tiene una duración general de dieciséis semanas. ¿Cuántas de ellas son de descanso obligatorio e ininterrumpido posteriores al parto?",
+    "opciones": [
+      "Las cuatro semanas inmediatas",
+      "Las seis semanas inmediatas",
+      "Las ocho semanas inmediatas",
+      "Las diez semanas inmediatas"
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 49.a) establece que de las 16 semanas, las 6 semanas inmediatas posteriores al parto serán de descanso obligatorio e ininterrumpidas."
+  },
+  {
+    "id": 26,
+    "temaId": 101,
+    "enunciado": "En los casos en que un hijo o hija menor padezca cáncer y requiera hospitalización y tratamiento, ¿hasta qué edad máxima con carácter general se mantiene la reducción de jornada al alcanzar la mayoría de edad si se mantiene la necesidad?",
+    "opciones": [
+      "Hasta los 21 años",
+      "Hasta los 23 años",
+      "Hasta los 25 años",
+      "Hasta los 26 años"
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 49.e) indica que el mero cumplimiento de los 18 años no extingue la reducción, pudiendo mantenerse como máximo hasta que el hijo cumpla 23 años (o 26 si acredita un grado de discapacidad >= 65%)."
+  },
+  {
+    "id": 27,
+    "temaId": 101,
+    "enunciado": "Los funcionarios públicos tendrán derecho a disfrutar, durante cada año natural, de unas vacaciones retribuidas de:",
+    "opciones": [
+      "Veinte días hábiles",
+      "Veintidós días hábiles",
+      "Treinta días naturales",
+      "Veinticuatro días laborables"
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 50.1 del TREBEP fija el periodo de vacaciones en veintidós días hábiles anuales."
+  },
+  {
+    "id": 28,
+    "temaId": 101,
+    "enunciado": "Si el periodo vacacional no puede iniciarse por riesgo durante el embarazo, ¿cuál es el plazo máximo para disfrutarlo tras finalizar el año en que se hayan originado?",
+    "opciones": [
+      "Doce meses",
+      "Dieciocho meses",
+      "Veinticuatro meses",
+      "Hasta el 31 de marzo del año siguiente"
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 50.2 permite disfrutar de las vacaciones generadas siempre que no hayan transcurrido más de 18 meses a partir del final del año en que se originaron."
+  },
+  {
+    "id": 29,
+    "temaId": 101,
+    "enunciado": "El deber de abstenerse de contraer obligaciones económicas con personas o entidades cuando pueda suponer un riesgo de conflicto de intereses forma parte de los:",
+    "opciones": [
+      "Principios de conducta",
+      "Principios éticos",
+      "Derechos irrenunciables",
+      "Deberes cívicos"
+    ],
+    "correcta": 1,
+    "justificacion": "Esta prohibición viene regulada explícitamente en el artículo 53 (Principios éticos), apartado 6."
+  },
+  {
+    "id": 30,
+    "temaId": 101,
+    "enunciado": "Si un superior dicta una orden que constituye una infracción manifiesta del ordenamiento jurídico, el empleado público debe:",
+    "opciones": [
+      "Obedecer bajo protesta escrita",
+      "Ignorarla y continuar con sus tareas habituales",
+      "Ponerla inmediatamente en conocimiento de los órganos de inspección procedentes",
+      "Elevar consulta al Tribunal Constitucional"
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 54.3 (Principios de conducta) obliga a los empleados públicos a informar a los órganos de inspección si una orden constituye infracción manifiesta."
+  },
+  {
+    "id": 31,
+    "temaId": 101,
+    "enunciado": "Para poder participar en los procesos selectivos de acceso al empleo público, se requiere tener cumplidos:",
+    "opciones": [
+      "Dieciocho años",
+      "Dieciséis años",
+      "Veintiún años",
+      "Catorce años con autorización parental"
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 56.1.c) establece como requisito general de acceso la edad mínima de 16 años cumplidos."
+  },
+  {
+    "id": 32,
+    "temaId": 101,
+    "enunciado": "De las vacantes ofertadas para personas con discapacidad (mínimo el 7%), se reservará para ser cubiertas por personas que acrediten discapacidad intelectual al menos el:",
+    "opciones": [
+      "Uno por ciento",
+      "Dos por ciento",
+      "Tres por ciento",
+      "Cinco por ciento"
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 59.1 establece que, dentro de ese 7%, al menos el 2% será para personas que acrediten discapacidad intelectual."
+  },
+  {
+    "id": 33,
+    "temaId": 101,
+    "enunciado": "¿Puede el personal eventual formar parte de los órganos de selección en un proceso selectivo?",
+    "opciones": [
+      "Sí, si tiene la misma titulación exigida a los aspirantes",
+      "Sí, en calidad de asesores técnicos",
+      "No, el personal eventual no podrá formar parte de los órganos de selección",
+      "Depende de lo que establezcan las bases de la convocatoria"
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 60.2 del TREBEP prohíbe explícitamente formar parte de órganos de selección al personal eventual, interino y de designación política."
+  },
+  {
+    "id": 34,
+    "temaId": 101,
+    "enunciado": "El sistema selectivo exclusivo de concurso, que consistirá únicamente en la valoración de méritos para funcionarios de carrera, procederá:",
+    "opciones": [
+      "En ningún caso",
+      "Solo en virtud de ley y con carácter excepcional",
+      "Por acuerdo del Consejo de Gobierno",
+      "Cuando haya menos de cinco plazas vacantes"
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 61.6 especifica que el sistema de concurso de méritos puro para acceso a la función pública solo podrá aplicarse con carácter excepcional y en virtud de Ley."
+  },
+  {
+    "id": 35,
+    "temaId": 101,
+    "enunciado": "La condición de funcionario de carrera se adquiere finalmente por:",
+    "opciones": [
+      "La publicación de la resolución en el Boletín Oficial",
+      "El acto de acatamiento de la Constitución",
+      "La superación del proceso selectivo",
+      "La toma de posesión dentro del plazo que se establezca"
+    ],
+    "correcta": 3,
+    "justificacion": "Según el artículo 62.1, el último de los requisitos sucesivos para adquirir la condición de funcionario es la toma de posesión."
+  },
+  {
+    "id": 36,
+    "temaId": 101,
+    "enunciado": "Constituye causa de pérdida de la condición de funcionario de carrera:",
+    "opciones": [
+      "La suspensión provisional en un procedimiento penal",
+      "La pena principal o accesoria de inhabilitación absoluta o especial para cargo público que tuviere carácter firme",
+      "La sanción firme por una falta grave",
+      "El traslado forzoso con cambio de localidad"
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 63.e) determina como causa de pérdida la pena de inhabilitación absoluta o especial siempre que tenga carácter firme."
+  },
+  {
+    "id": 37,
+    "temaId": 101,
+    "enunciado": "Con independencia de la edad general de jubilación forzosa (65 años), se podrá solicitar la prolongación de permanencia en el servicio activo, salvo normas específicas, como máximo hasta:",
+    "opciones": [
+      "Los sesenta y siete años",
+      "Los setenta años de edad",
+      "Los setenta y dos años de edad",
+      "No existe límite máximo si la capacidad funcional lo permite"
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 67.3 permite la prolongación voluntaria de la permanencia en servicio activo como máximo hasta que se cumplan 70 años."
+  },
+  {
+    "id": 38,
+    "temaId": 101,
+    "enunciado": "Cuando un funcionario acceda a la condición de Diputado de las Cortes Generales y perciba retribuciones periódicas por dicha función, será declarado en la situación administrativa de:",
+    "opciones": [
+      "Excedencia voluntaria por interés particular",
+      "Servicios en otras Administraciones Públicas",
+      "Servicios especiales",
+      "Excedencia forzosa"
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 87.1.e) envía a servicios especiales a quienes accedan a la condición de Diputado o Senador si perciben retribuciones periódicas."
+  },
+  {
+    "id": 39,
+    "temaId": 101,
+    "enunciado": "En la situación de excedencia voluntaria por interés particular regulada en el TREBEP (art. 89), el tiempo que el funcionario permanezca en ella:",
+    "opciones": [
+      "Será computable a efectos de trienios, pero no de ascensos",
+      "Será computable a efectos de derechos pasivos únicamente",
+      "No devengará retribuciones, pero será computable para ascensos",
+      "No devengará retribuciones, ni le será computable a efectos de ascensos, trienios y derechos pasivos"
+    ],
+    "correcta": 3,
+    "justificacion": "El artículo 89.2 del TREBEP declara explícitamente que la excedencia voluntaria por interés particular es 'tiempo muerto': ni cobra ni suma trienios o antigüedad."
+  },
+  {
+    "id": 40,
+    "temaId": 101,
+    "enunciado": "El funcionario declarado en la situación de excedencia por el cuidado de un familiar tendrá el puesto de trabajo desempeñado reservado al menos durante:",
+    "opciones": [
+      "Seis meses",
+      "Un año",
+      "Dos años",
+      "Tres años"
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 89.4 estipula que en la excedencia por cuidado de familiares, el puesto desempeñado se reserva al menos durante 2 años."
+  },
+  {
+    "id": 41,
+    "temaId": 101,
+    "enunciado": "Según el TREBEP, la sanción disciplinaria de suspensión firme de funciones no podrá exceder de:",
+    "opciones": [
+      "Dos años",
+      "Tres años",
+      "Cinco años",
+      "Seis años"
+    ],
+    "correcta": 3,
+    "justificacion": "El artículo 90.2 y 96.1.c) del TREBEP fijan la duración máxima de la suspensión firme de funciones (y de empleo y sueldo) en 6 años."
+  },
+  {
+    "id": 42,
+    "temaId": 101,
+    "enunciado": "¿Qué tipo de infracción constituye el abandono del servicio según el régimen disciplinario del TREBEP?",
+    "opciones": [
+      "Infracción leve",
+      "Falta grave",
+      "Falta muy grave",
+      "No está tipificado expresamente"
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 95.2.c) del TREBEP clasifica el abandono del servicio siempre como una falta MUY GRAVE."
+  },
+  {
+    "id": 43,
+    "temaId": 101,
+    "enunciado": "El plazo de prescripción de las faltas leves en el marco del TREBEP es de:",
+    "opciones": [
+      "Dos meses",
+      "Tres meses",
+      "Seis meses",
+      "Un año"
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 97.1 del TREBEP indica que las faltas leves prescriben a los 6 meses."
+  },
+  {
+    "id": 44,
+    "temaId": 101,
+    "enunciado": "Según la Ley 1/1986 de la Función Pública de la Comunidad de Madrid, los funcionarios de Grupo C deben poseer titulación exigida de:",
+    "opciones": [
+      "Título de Graduado Escolar",
+      "Título de Bachiller, Formación Profesional de Segundo Grado o equivalente",
+      "Título de Ingeniero Técnico o Diplomado",
+      "Certificado de Escolaridad"
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 27 de la Ley autonómica 1/1986 de la C.M. especifica el Bachiller o FP2 como titulación base para su Grupo C."
+  },
+  {
+    "id": 45,
+    "temaId": 101,
+    "enunciado": "En la Ley 1/1986 de la Comunidad de Madrid, si un funcionario solicita la renuncia y la Administración no emite declaración expresa, esta se entiende concedida en el plazo de:",
+    "opciones": [
+      "Quince días siguientes a su solicitud",
+      "Un mes siguiente a su solicitud",
+      "Tres meses desde el registro",
+      "Se entiende denegada por silencio negativo"
+    ],
+    "correcta": 0,
+    "justificacion": "El artículo 29.2 de la Ley 1/1986 de la C.M. prevé un silencio positivo rápido: a los 15 días sin respuesta expresa, se entiende concedida."
+  },
+  {
+    "id": 46,
+    "temaId": 101,
+    "enunciado": "La excedencia voluntaria por interés particular de la Ley 1/1986 de la Comunidad de Madrid requiere que el funcionario permanezca en ella de forma ininterrumpida no menos de:",
+    "opciones": [
+      "Un año",
+      "Dos años continuados",
+      "Tres años continuados",
+      "Cinco años continuados"
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 59.2.b) de la Ley 1/1986 señala que en esta situación por interés particular no se podrá permanecer menos de dos años continuados."
+  },
+  {
+    "id": 47,
+    "temaId": 101,
+    "enunciado": "Según la Ley 1/1986 de la Comunidad de Madrid, el funcionario declarado suspenso provisional tendrá derecho a percibir, salvo paralización imputable al mismo:",
+    "opciones": [
+      "El 100% de las retribuciones básicas",
+      "El 75% de sus retribuciones básicas y la totalidad de la prestación familiar por hijo a cargo",
+      "El 50% de sus retribuciones básicas",
+      "No percibirá haber alguno"
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 64.4 de la Ley 1/1986 fija que el suspenso provisional cobra el 75% de sus retribuciones básicas (a diferencia del TREBEP estatal, que dice que cobra las básicas íntegras)."
+  },
+  {
+    "id": 48,
+    "temaId": 101,
+    "enunciado": "Según la Ley 1/1986 de la Comunidad de Madrid, el disfrute de vacaciones retribuidas, por cada año completo de servicio activo, será de:",
+    "opciones": [
+      "Veintidós días hábiles",
+      "Treinta días naturales",
+      "Un mes de duración",
+      "Cuatro semanas"
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 68 de la Ley 1/1986 madrileña redacta textualmente el derecho vacacional como 'un mes de duración' (a pesar de que luego se adecúe al TREBEP en su aplicación práctica)."
+  },
+  {
+    "id": 49,
+    "temaId": 101,
+    "enunciado": "En el régimen de la Comunidad de Madrid (Ley 1/1986), constituye falta muy grave la comisión, en el período de un año, de:",
+    "opciones": [
+      "Dos faltas calificadas como graves",
+      "Tres faltas calificadas como graves",
+      "Cuatro faltas calificadas como graves",
+      "Una falta grave y tres leves"
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 83.ñ) de la Ley 1/1986 eleva a falta MUY GRAVE el haber sido sancionado por la comisión de tres faltas graves en un solo año."
+  },
+  {
+    "id": 50,
+    "temaId": 101,
+    "enunciado": "De acuerdo a la Ley 1/1986, las faltas muy graves de los funcionarios de la Comunidad de Madrid prescribirán a los:",
+    "opciones": [
+      "Tres años desde que la acción pudiera haber sido ejercitada",
+      "Cuatro años desde que la acción pudiera haber sido ejercitada",
+      "Seis años desde que la acción contra el funcionario pudiera haber sido ejercitada",
+      "Diez años, si mediara daño al patrimonio público"
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 86.1 de la Ley 1/1986 de la C.M. dice que las faltas muy graves prescriben a los 6 años (a diferencia de la normativa estatal moderna del TREBEP, que son 3)."
+  },
+
+
+{
+    "id": 51,
+    "temaId": 101,
+    "enunciado": "Según el TREBEP, ¿cuál es el plazo máximo de nombramiento de un funcionario interino por exceso o acumulación de tareas?",
+    "opciones": [
+      "Seis meses dentro de un periodo de doce meses.",
+      "Nueve meses dentro de un periodo de dieciocho meses.",
+      "Doce meses dentro de un periodo de dieciocho meses.",
+      "Tres años, ampliable hasta doce meses más."
+    ],
+    "correcta": 1,
+    "justificacion": "Según el artículo 10.1.d) del TREBEP[cite: 29], el nombramiento por exceso o acumulación de tareas tiene un plazo máximo de nueve meses, dentro de un periodo de dieciocho meses."
+  },
+  {
+    "id": 52,
+    "temaId": 101,
+    "enunciado": "Según el TREBEP, la prestación del servicio mediante teletrabajo tendrá carácter voluntario y reversible, salvo en:",
+    "opciones": [
+      "Supuestos excepcionales debidamente justificados.",
+      "Casos de fuerza mayor declarados por el Gobierno.",
+      "Estados de alarma, excepción o sitio.",
+      "Ningún caso, es un derecho incondicionado e irreversible."
+    ],
+    "correcta": 0,
+    "justificacion": "El artículo 47 bis.2 del TREBEP [cite: 173, 174] establece que en todo caso, tendrá carácter voluntario y reversible salvo en supuestos excepcionales debidamente justificados."
+  },
+  {
+    "id": 53,
+    "temaId": 101,
+    "enunciado": "Bajo el TREBEP, ¿de cuántos días hábiles es el permiso por fallecimiento de un familiar de segundo grado de consanguinidad si el suceso se produce en distinta localidad?",
+    "opciones": [
+      "Dos días hábiles.",
+      "Tres días hábiles.",
+      "Cuatro días hábiles.",
+      "Cinco días hábiles."
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 48.a) del TREBEP [cite: 186] determina que por fallecimiento de familiar de segundo grado corresponde un permiso de dos días hábiles en la misma localidad y de cuatro días hábiles en distinta localidad."
+  },
+  {
+    "id": 54,
+    "temaId": 101,
+    "enunciado": "Según el TREBEP, la sustitución del tiempo de lactancia por un permiso retribuido que acumule jornadas completas podrá disfrutarse:",
+    "opciones": [
+      "A partir del primer mes de vida del menor.",
+      "Únicamente a partir de la finalización del permiso por nacimiento, adopción, guarda o acogimiento.",
+      "De forma simultánea al permiso por nacimiento para alargarlo.",
+      "En cualquier momento antes de que el menor cumpla doce meses."
+    ],
+    "correcta": 1,
+    "justificacion": "Según el artículo 48.f) del TREBEP[cite: 195, 196], esta modalidad se podrá disfrutar únicamente a partir de la finalización del permiso por nacimiento, adopción, guarda o acogimiento."
+  },
+  {
+    "id": 55,
+    "temaId": 101,
+    "enunciado": "En el TREBEP, para atender el cuidado de un familiar de primer grado por enfermedad muy grave, se puede solicitar una reducción de hasta el 50% de la jornada laboral, con carácter retribuido, por un plazo máximo de:",
+    "opciones": [
+      "Quince días.",
+      "Un mes.",
+      "Dos meses.",
+      "Seis meses."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 48.i) del TREBEP [cite: 202] estipula el derecho a una reducción de hasta el 50% de la jornada por razones de enfermedad muy grave por el plazo máximo de un mes."
+  },
+  {
+    "id": 56,
+    "temaId": 101,
+    "enunciado": "Según el TREBEP, en caso de disfrute interrumpido del permiso por nacimiento, ¿qué preaviso mínimo se requiere para cada período de disfrute?",
+    "opciones": [
+      "10 días.",
+      "15 días.",
+      "20 días.",
+      "Un mes."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 49.a) del TREBEP [cite: 213, 214] indica que en el caso del disfrute interrumpido se requerirá, para cada período de disfrute, un preaviso de al menos 15 días y se realizará por semanas completas."
+  },
+  {
+    "id": 57,
+    "temaId": 101,
+    "enunciado": "Bajo el TREBEP, en los casos de adopción internacional, si fuera necesario el desplazamiento previo al país de origen, ¿a qué permiso adicional se tiene derecho?",
+    "opciones": [
+      "Hasta un mes percibiendo retribuciones íntegras.",
+      "Hasta dos meses percibiendo exclusivamente retribuciones básicas.",
+      "Hasta tres meses sin retribución alguna.",
+      "Hasta cuatro semanas percibiendo retribuciones básicas."
+    ],
+    "correcta": 1,
+    "justificacion": "Según el artículo 49.b) del TREBEP[cite: 229], se tendrá derecho a un permiso de hasta dos meses de duración, percibiendo durante este periodo exclusivamente las retribuciones básicas."
+  },
+  {
+    "id": 58,
+    "temaId": 101,
+    "enunciado": "Según el TREBEP, en el permiso por cuidado de hijo afectado por cáncer, si se mantiene la necesidad de cuidado pero el hijo cumple 18 años, la reducción de jornada puede extenderse hasta los 26 años si:",
+    "opciones": [
+      "Acredita un grado de discapacidad igual o superior al 33%.",
+      "Acredita un grado de dependencia severa.",
+      "Antes de alcanzar los 23 años, acredita un grado de discapacidad igual o superior al 65%.",
+      "No puede extenderse en ningún caso más allá de los 23 años."
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 49.e) del TREBEP [cite: 254] señala que se mantendrá el derecho a la reducción hasta los 26 años si, antes de alcanzar los 23 años, acreditara un grado de discapacidad igual o superior al 65%."
+  },
+  {
+    "id": 59,
+    "temaId": 101,
+    "enunciado": "Si las situaciones de riesgo durante el embarazo o incapacidad temporal impiden iniciar el disfrute de las vacaciones en el año natural, el TREBEP permite disfrutarlas siempre que no hayan transcurrido más de:",
+    "opciones": [
+      "12 meses a partir del final del año en que se hayan originado.",
+      "18 meses a partir del final del año en que se hayan originado.",
+      "24 meses a partir del final del año en que se hayan originado.",
+      "Hasta el 31 de diciembre del año siguiente."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 50.2 del TREBEP [cite: 274] establece que las vacaciones no disfrutadas por estos motivos podrán disfrutarse siempre que no hayan transcurrido más de dieciocho meses a partir del final del año en que se originaron."
+  },
+  {
+    "id": 60,
+    "temaId": 101,
+    "enunciado": "En las ofertas de empleo público, del mínimo del 7% de reserva para personas con discapacidad, ¿qué porcentaje se reservará específicamente para personas que acrediten discapacidad intelectual según el TREBEP?",
+    "opciones": [
+      "Al menos el 1%.",
+      "Al menos el 2%.",
+      "Al menos el 3%.",
+      "Al menos el 5%."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 59.1 del TREBEP [cite: 241, 343] indica que la reserva del mínimo del 7% se realizará de manera que, al menos, el 2% de las plazas sea para personas que acrediten discapacidad intelectual."
+  },
+  {
+    "id": 61,
+    "temaId": 101,
+    "enunciado": "Según el TREBEP, ¿cuándo NO podrá ser aceptada la renuncia voluntaria a la condición de funcionario?",
+    "opciones": [
+      "Cuando el funcionario no haya prestado al menos 5 años de servicio.",
+      "Cuando se encuentre en situación de excedencia por interés particular.",
+      "Cuando esté sujeto a expediente disciplinario o haya sido dictado auto de procesamiento por delito.",
+      "Cuando la Administración tenga necesidades urgentes de personal."
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 64.2 del TREBEP [cite: 385] establece expresamente que no podrá ser aceptada la renuncia cuando el funcionario esté sujeto a expediente disciplinario o haya sido dictado auto de procesamiento."
+  },
+  {
+    "id": 62,
+    "temaId": 101,
+    "enunciado": "Según el TREBEP, la sanción disciplinaria de suspensión firme de funciones NO podrá exceder de:",
+    "opciones": [
+      "Dos años.",
+      "Tres años.",
+      "Seis años.",
+      "Diez años."
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 90.2 y el 96.1.c) del TREBEP [cite: 498, 499, 554] limitan la duración máxima de la suspensión firme de funciones a 6 años."
+  },
+  {
+    "id": 63,
+    "temaId": 101,
+    "enunciado": "En cuanto a los plazos de prescripción de faltas, ¿cuál es la diferencia entre el TREBEP y la Ley 1/1986 de la Comunidad de Madrid respecto a las faltas MUY GRAVES?",
+    "opciones": [
+      "En el TREBEP prescriben a los 3 años y en la Ley 1/1986 a los 6 años.",
+      "En el TREBEP prescriben a los 5 años y en la Ley 1/1986 a los 4 años.",
+      "En ambas normativas prescriben a los 3 años.",
+      "En el TREBEP prescriben a los 4 años y en la Ley 1/1986 a los 5 años."
+    ],
+    "correcta": 0,
+    "justificacion": "Según el artículo 97.1 del TREBEP[cite: 562], las faltas muy graves prescriben a los 3 años. Sin embargo, el artículo 86.1 de la Ley 1/1986 de la CM [cite: 898] establece que prescriben a los 6 años."
+  },
+  {
+    "id": 64,
+    "temaId": 101,
+    "enunciado": "Según la Ley 1/1986 de la Comunidad de Madrid, ¿cuándo prescribe una falta leve?",
+    "opciones": [
+      "Al mes.",
+      "A los dos meses.",
+      "A los seis meses.",
+      "Al año."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 86.1 de la Ley 1/1986 [cite: 898] de la CM establece que las faltas leves prescriben a los dos meses."
+  },
+  {
+    "id": 65,
+    "temaId": 101,
+    "enunciado": "Según el TREBEP, ¿cuándo prescribe una falta leve?",
+    "opciones": [
+      "Al mes.",
+      "A los dos meses.",
+      "A los seis meses.",
+      "Al año."
+    ],
+    "correcta": 2,
+    "justificacion": "A diferencia de la normativa madrileña, el artículo 97.1 del TREBEP [cite: 562] establece que las faltas leves prescriben a los seis meses."
+  },
+  {
+    "id": 66,
+    "temaId": 101,
+    "enunciado": "De acuerdo con la Ley 1/1986 de la C.M., la prolongación de la permanencia en servicio activo más allá de los 70 años es posible:",
+    "opciones": [
+      "En ningún caso, los 70 años es el límite absoluto.",
+      "Con objeto de completar el tiempo mínimo necesario para causar derecho a pensión de jubilación.",
+      "Si el reconocimiento médico acredita aptitud física sobresaliente.",
+      "Si el funcionario pertenece al Grupo A."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 30.1 de la Ley 1/1986 [cite: 628] permite la prórroga por encima del límite con el objeto exclusivo de completar el tiempo mínimo necesario para causar derecho a pensión."
+  },
+  {
+    "id": 67,
+    "temaId": 101,
+    "enunciado": "Según la Ley 1/1986 de la C.M., para solicitar excedencia voluntaria por interés particular, ¿cuánto tiempo continuado se debe permanecer en ella como mínimo?",
+    "opciones": [
+      "Un año.",
+      "Dos años continuados.",
+      "Tres años continuados.",
+      "Cinco años continuados."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 59.2.b) de la Ley 1/1986 [cite: 673] especifica que en la situación de excedencia voluntaria por interés particular no se podrá permanecer menos de dos años continuados."
+  },
+  {
+    "id": 68,
+    "temaId": 101,
+    "enunciado": "En la excedencia voluntaria por agrupación familiar regulada en la Ley 1/1986 de la C.M., ¿cuál es su duración máxima permitida?",
+    "opciones": [
+      "Cinco años.",
+      "Diez años.",
+      "Quince años.",
+      "No tiene duración máxima."
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 59.2.c) de la Ley 1/1986 [cite: 678] establece que la excedencia voluntaria por agrupación familiar tendrá una duración mínima de dos años y máxima de quince."
+  },
+  {
+    "id": 69,
+    "temaId": 101,
+    "enunciado": "Según la Ley 1/1986, en la excedencia para atención a familiares a su cargo (hasta 2º grado), ¿cuál es la duración máxima permitida?",
+    "opciones": [
+      "Seis meses.",
+      "Un año.",
+      "Dos años.",
+      "Tres años."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 59 bis.2 de la Ley 1/1986 [cite: 684] otorga derecho a un periodo de excedencia de duración no superior a un año para atender al cuidado de un familiar a su cargo."
+  },
+  {
+    "id": 70,
+    "temaId": 101,
+    "enunciado": "De acuerdo con la Ley 1/1986 de la C.M., ¿a qué tiene derecho la funcionaria víctima de violencia de género durante los primeros seis meses de excedencia?",
+    "opciones": [
+      "A percibir retribuciones íntegras los seis meses.",
+      "A la reserva del puesto y al cómputo de dicho período a efectos de ascensos, trienios y derechos pasivos.",
+      "Únicamente a la reserva del puesto de trabajo, sin cómputo de antigüedad.",
+      "Al abono exclusivo de las prestaciones familiares por hijo a cargo."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 59 ter.1 de la Ley 1/1986 [cite: 694, 695] indica que durante los seis primeros meses tendrá reserva del puesto y será computable a efectos de ascensos, trienios y derechos pasivos."
+  },
+  {
+    "id": 71,
+    "temaId": 101,
+    "enunciado": "Bajo la Ley 1/1986, si la efectividad del derecho de protección de la víctima de violencia de género lo exigiere, el periodo de reserva de puesto podrá prorrogarse por periodos de:",
+    "opciones": [
+      "1 mes, con un máximo total de 12 meses.",
+      "2 meses, con un máximo total de 24 meses.",
+      "3 meses, con un máximo total de 18 meses.",
+      "6 meses, con un máximo total de 36 meses."
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 59 ter.2 de la Ley 1/1986 [cite: 696] contempla la prórroga por periodos de tres meses, con un máximo total de dieciocho."
+  },
+  {
+    "id": 72,
+    "temaId": 101,
+    "enunciado": "En relación con la suspensión provisional de un funcionario regulada en la Ley 1/1986, si se produce incomparecencia en el procedimiento disciplinario o procesal penal:",
+    "opciones": [
+      "Percibirá el 75% de las retribuciones básicas.",
+      "Percibirá únicamente el sueldo base.",
+      "No se acreditará haber alguno.",
+      "Percibirá el 50% de las retribuciones básicas."
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 64.4 de la Ley 1/1986 [cite: 749, 750] penaliza la incomparecencia indicando que 'no se acreditará haber alguno'."
+  },
+  {
+    "id": 73,
+    "temaId": 101,
+    "enunciado": "Según el TREBEP, ¿qué ocurre si la suspensión provisional de un funcionario NO llega a convertirse en sanción definitiva?",
+    "opciones": [
+      "El tiempo transcurrido no computa a ningún efecto.",
+      "El funcionario deberá abonar las costas del expediente.",
+      "La Administración deberá restituir al funcionario la diferencia entre los haberes realmente percibidos y los que hubiera debido percibir.",
+      "Se compensará al funcionario con un mes de vacaciones adicionales."
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 98.4 del TREBEP [cite: 577, 578] exige que si la suspensión provisional no llega a ser firme, la Administración restituirá al funcionario la diferencia de haberes dejada de percibir."
+  },
+  {
+    "id": 74,
+    "temaId": 101,
+    "enunciado": "El TREBEP establece las vacaciones anuales en 22 días hábiles. Sin embargo, ¿qué establece textualmente la Ley 1/1986 de la Función Pública de la C.M.?",
+    "opciones": [
+      "Veintidós días hábiles.",
+      "Veinticuatro días laborables.",
+      "Un mes de duración o los días que en proporción correspondan.",
+      "Treinta días naturales improrrogables."
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 68 de la Ley 1/1986 [cite: 790] redacta el derecho a vacaciones como 'un mes de duración o de los días que, en proporción, les correspondan'."
+  },
+  {
+    "id": 75,
+    "temaId": 101,
+    "enunciado": "Según la Ley 1/1986, el máximo de duración de los permisos por nacimiento, traslado de domicilio o matrimonio se fijará por:",
+    "opciones": [
+      "El Consejo de Gobierno.",
+      "El Consejero de la Presidencia, previo informe del Consejo Regional de la Función Pública.",
+      "La Asamblea de Madrid.",
+      "El Director General de Recursos Humanos."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 69.1 de la Ley 1/1986 [cite: 796] especifica que estos máximos de duración se fijarán por el Consejero de la Presidencia, previo informe del Consejo Regional."
+  },
+  {
+    "id": 76,
+    "temaId": 101,
+    "enunciado": "Bajo la Ley 1/1986, la duración de las licencias por asuntos propios (que se conceden sin ninguna retribución) se determinará por:",
+    "opciones": [
+      "El Jefe de la unidad orgánica.",
+      "El Consejero de la Presidencia de forma unilateral.",
+      "El Consejo de Gobierno a propuesta de la Consejería de Presidencia.",
+      "La Dirección General de la Función Pública."
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 70.2 de la Ley 1/1986 [cite: 811] indica que la duración de esta licencia no retribuida se determina por el Consejo de Gobierno a propuesta de la Consejería de Presidencia."
+  },
+  {
+    "id": 77,
+    "temaId": 101,
+    "enunciado": "Según la Ley 1/1986 de la C.M., ¿a partir de qué edad del menor finaliza el derecho a la reducción proporcional de trabajo de un tercio o un medio por razón de guarda legal (sin minusvalía)?",
+    "opciones": [
+      "Menor de doce años.",
+      "Menor de ocho años.",
+      "Menor de seis años.",
+      "Menor de tres años."
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 71.2 de la Ley 1/1986 [cite: 822] reconoce esta reducción para quien tenga a su cuidado directo algún menor de seis años."
+  },
+  {
+    "id": 78,
+    "temaId": 101,
+    "enunciado": "En la Ley 1/1986 de la C.M., constituye falta MUY GRAVE haber sido sancionado por la comisión de:",
+    "opciones": [
+      "Dos faltas calificadas como graves en el período de un año.",
+      "Tres faltas calificadas como graves en el período de un año.",
+      "Tres faltas calificadas como graves en el período de dos años.",
+      "Cuatro faltas leves en un semestre."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 83.ñ) de la Ley 1/1986 [cite: 875] eleva a categoría de falta muy grave el 'Haber sido sancionado por la comisión de tres faltas calificadas como graves en el período de un año'."
+  },
+  {
+    "id": 79,
+    "temaId": 101,
+    "enunciado": "De acuerdo con el régimen disciplinario de la Ley 1/1986, la sanción de separación del servicio de un funcionario de la Comunidad de Madrid deberá acordarse por:",
+    "opciones": [
+      "El Consejero de Presidencia.",
+      "El Pleno de la Asamblea de Madrid.",
+      "El Tribunal Superior de Justicia de Madrid.",
+      "El Consejo de Gobierno de la Comunidad."
+    ],
+    "correcta": 3,
+    "justificacion": "El artículo 85.3 de la Ley 1/1986 [cite: 896] reserva la imposición de la sanción más severa (separación del servicio) al Consejo de Gobierno de la Comunidad."
+  },
+  {
+    "id": 80,
+    "temaId": 101,
+    "enunciado": "Según el TREBEP, ¿cómo se aplica el principio de irretroactividad en el ejercicio de la potestad disciplinaria?",
+    "opciones": [
+      "No existe retroactividad en ningún caso en el ámbito disciplinario.",
+      "Se aplica la irretroactividad de las disposiciones sancionadoras no favorables y la retroactividad de las favorables al presunto infractor.",
+      "Las sanciones muy graves siempre tienen efectos retroactivos económicos.",
+      "Se aplicarán siempre y exclusivamente las normas vigentes en el momento de cometerse la falta."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 94.2.b) del TREBEP [cite: 519] consagra el Principio de irretroactividad de las disposiciones sancionadoras no favorables y de retroactividad de las favorables al presunto infractor."
+  },
+  {
+    "id": 81,
+    "temaId": 101,
+    "enunciado": "En el TREBEP, 'El incumplimiento de la obligación de atender los servicios esenciales en caso de huelga' está tipificado como:",
+    "opciones": [
+      "Falta leve.",
+      "Falta grave.",
+      "Falta muy grave.",
+      "No se considera infracción disciplinaria, sino civil."
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 95.2.m) del TREBEP [cite: 540] lista el incumplimiento de atender servicios esenciales en huelga explícitamente dentro de las faltas muy graves."
+  },
+  {
+    "id": 82,
+    "temaId": 101,
+    "enunciado": "Según la Ley 1/1986, si el Órgano competente no efectúa una declaración expresa en los quince días siguientes a la solicitud de renuncia de un funcionario:",
+    "opciones": [
+      "La renuncia se entiende denegada por silencio administrativo negativo.",
+      "La renuncia se entiende concedida.",
+      "Se abre obligatoriamente un trámite de audiencia de 10 días.",
+      "El procedimiento caduca y la solicitud debe volver a presentarse."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 29.2 de la Ley 1/1986 [cite: 619] establece un mecanismo de silencio positivo: la renuncia se entiende concedida si en quince días no hubiese declaración expresa."
+  },
+  {
+    "id": 83,
+    "temaId": 101,
+    "enunciado": "El TREBEP establece, como norma general, que el permiso por asuntos particulares será de:",
+    "opciones": [
+      "Seis días al año.",
+      "Siete días al año.",
+      "Tres días al año.",
+      "Cinco días al año."
+    ],
+    "correcta": 0,
+    "justificacion": "El artículo 48.k) del TREBEP [cite: 206] otorga directamente seis días al año por asuntos particulares."
+  },
+  {
+    "id": 84,
+    "temaId": 101,
+    "enunciado": "Según la Ley 1/1986, el funcionario en situación de excedencia forzosa:",
+    "opciones": [
+      "Tiene prohibido participar en procedimientos de provisión de puestos de trabajo.",
+      "Estará obligado a participar en los procedimientos que se convoquen para la provisión de puestos cuyos requisitos de desempeño reúna.",
+      "Sólo puede reingresar al servicio activo mediante adscripción provisional discrecional.",
+      "Cobrará el 100% de las retribuciones complementarias del último puesto desempeñado."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 60.2 de la Ley 1/1986 [cite: 700] impone la obligación de participar en procedimientos de provisión cuyos requisitos reúna y a aceptar el reingreso."
+  },
+  {
+    "id": 85,
+    "temaId": 101,
+    "enunciado": "Bajo la Ley 1/1986, ¿qué sucede si un funcionario en excedencia forzosa incumple la obligación de participar en los procedimientos de provisión obligatorios o rechaza el reingreso?",
+    "opciones": [
+      "Pasa directamente a la situación de suspensión firme.",
+      "Se le instruye un expediente por falta muy grave de abandono del servicio.",
+      "Pasa a la situación de excedencia voluntaria por interés particular.",
+      "Pierde la condición de funcionario de carrera automáticamente."
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 60.3 de la Ley 1/1986 [cite: 701] castiga el incumplimiento de estas obligaciones con el pase automático a excedencia voluntaria por interés particular."
+  },
+  {
+    "id": 86,
+    "temaId": 101,
+    "enunciado": "En la Ley 1/1986, si la condena criminal o la sanción disciplinaria impone una suspensión firme que excede de seis meses, ¿qué consecuencia tiene sobre su puesto?",
+    "opciones": [
+      "Deberá trasladarse forzosamente a otra localidad.",
+      "Determinará la pérdida del puesto de trabajo.",
+      "Perderá el grado personal que tuviese consolidado.",
+      "Se le declarará en servicios especiales."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 65.1 de la Ley 1/1986 [cite: 754] determina que la condena y sanción producirán la pérdida del puesto de trabajo cuando la suspensión firme exceda de seis meses."
+  },
+  {
+    "id": 87,
+    "temaId": 101,
+    "enunciado": "Según el TREBEP, las sanciones impuestas por faltas muy graves prescriben a los:",
+    "opciones": [
+      "Tres años.",
+      "Seis años.",
+      "Dos años.",
+      "Las sanciones por faltas muy graves son imprescriptibles."
+    ],
+    "correcta": 0,
+    "justificacion": "El artículo 97.1 del TREBEP [cite: 562, 563] fija la prescripción tanto de las faltas muy graves como de las sanciones impuestas por ellas en tres años."
+  },
+  {
+    "id": 88,
+    "temaId": 101,
+    "enunciado": "En el TREBEP, los principios de conducta dictan que los empleados públicos obedecerán las instrucciones y órdenes profesionales de los superiores, SALVO QUE:",
+    "opciones": [
+      "Estén en profundo desacuerdo con su criterio técnico.",
+      "Constituyan una infracción manifiesta del ordenamiento jurídico.",
+      "Requieran la prestación de servicios extraordinarios fuera de la jornada habitual.",
+      "No consten por escrito y debidamente firmadas."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 54.3 del TREBEP [cite: 302] obliga a obedecer, salvo que las órdenes constituyan una infracción manifiesta del ordenamiento jurídico (debiendo informar a inspección)."
+  },
+  {
+    "id": 89,
+    "temaId": 101,
+    "enunciado": "Según la Ley 1/1986, en caso de que dos funcionarios generen el derecho de excedencia por cuidado de hijo por el mismo sujeto causante, la Administración:",
+    "opciones": [
+      "Debe concederlo a ambos de manera simultánea obligatoriamente.",
+      "Lo concederá preferentemente a la madre biológica o adoptante.",
+      "Podrá limitar su ejercicio simultáneo por razones justificadas relacionadas con el funcionamiento de los servicios.",
+      "Prohibirá terminantemente que ambos lo disfruten, incluso en periodos alternos."
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 59 bis.4 de la Ley 1/1986 [cite: 688] permite limitar el ejercicio simultáneo por parte de dos funcionarios basados en razones justificadas del funcionamiento del servicio."
+  },
+  {
+    "id": 90,
+    "temaId": 101,
+    "enunciado": "Según el TREBEP, el permiso parental para el cuidado de hijo o menor acogido por tiempo superior a un año (hasta que el menor cumpla ocho años) tendrá una duración no superior a:",
+    "opciones": [
+      "Cuatro semanas.",
+      "Ocho semanas.",
+      "Diez semanas.",
+      "Dieciséis semanas."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 49.g) del TREBEP [cite: 265] establece una duración no superior a ocho semanas, continuas o discontinuas, para este permiso parental."
+  },
+  {
+    "id": 91,
+    "temaId": 101,
+    "enunciado": "Bajo la Ley 1/1986, el funcionario en servicio activo que, por necesidades, deba prestar temporalmente servicios en otra localidad tendrá derecho a:",
+    "opciones": [
+      "Un incremento salarial equivalente a un complemento de destino superior.",
+      "Las indemnizaciones que reglamentariamente se establezcan.",
+      "El abono de dietas libres sin necesidad de justificación.",
+      "Un permiso retribuido especial de tres días tras su regreso."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 67.b) de la Ley 1/1986 [cite: 775] indica que si deben prestar temporalmente servicios en otra localidad, tendrán derecho a las indemnizaciones reglamentarias."
+  },
+  {
+    "id": 92,
+    "temaId": 101,
+    "enunciado": "En relación al reingreso al servicio activo en la Ley 1/1986, si el reingreso se efectúa por adscripción a un puesto con carácter provisional, el puesto asignado se convocará para su provisión definitiva en el plazo máximo de:",
+    "opciones": [
+      "Seis meses.",
+      "Un año.",
+      "Dos años.",
+      "Tres años."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 66.2 de la Ley 1/1986 [cite: 766, 767] dicta que el puesto asignado provisionalmente se convocará para su provisión definitiva en el plazo máximo de un año."
+  },
+  {
+    "id": 93,
+    "temaId": 101,
+    "enunciado": "Según el TREBEP, respecto a la composición de los órganos de selección, ¿quiénes NO podrán formar parte de ellos en ningún caso?",
+    "opciones": [
+      "Cualquier funcionario de carrera de una Administración distinta a la convocante.",
+      "Expertos independientes o profesionales ajenos a la Administración Pública.",
+      "El personal de elección o de designación política, los funcionarios interinos y el personal eventual.",
+      "Funcionarios que no posean titulación académica superior a la exigida en la convocatoria."
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 60.2 del TREBEP [cite: 347] excluye taxativamente al personal de elección/designación política, interinos y eventuales de los órganos de selección."
+  },
+  {
+    "id": 94,
+    "temaId": 101,
+    "enunciado": "Para que la pena principal o accesoria de inhabilitación absoluta o especial para cargo público produzca la pérdida de la condición de funcionario, la sentencia que la imponga debe tener carácter:",
+    "opciones": [
+      "Provisional o cautelar.",
+      "Firme.",
+      "Ejecutorio en primera instancia administrativa.",
+      "Condicional."
+    ],
+    "correcta": 1,
+    "justificacion": "Tanto el artículo 63.e) del TREBEP [cite: 381, 382] como el 29.1.c) de la Ley 1/1986 [cite: 616, 617] exigen que la pena de inhabilitación tenga carácter firme."
+  },
+  {
+    "id": 95,
+    "temaId": 101,
+    "enunciado": "El TREBEP establece que las Administraciones Públicas podrán negociar formas de colaboración que fijen la actuación de las organizaciones sindicales en el desarrollo de los procesos selectivos. ¿En qué marco se realiza esto?",
+    "opciones": [
+      "En las Leyes de Presupuestos Generales del Estado.",
+      "En el seno de las Juntas de Personal.",
+      "En el marco de los convenios colectivos.",
+      "A través del Senado y las Asambleas Legislativas."
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 61.7 del TREBEP [cite: 362] señala que se podrán negociar estas formas de colaboración en el marco de los convenios colectivos."
+  },
+  {
+    "id": 96,
+    "temaId": 101,
+    "enunciado": "De acuerdo con el TREBEP, ¿en qué consiste la modalidad de carrera horizontal de los funcionarios de carrera?",
+    "opciones": [
+      "En el ascenso en la estructura de puestos de trabajo cambiando a uno de mayor nivel.",
+      "En el acceso a cuerpos o escalas del mismo Subgrupo profesional.",
+      "En la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo.",
+      "En el ascenso desde un cuerpo de un Subgrupo inferior a otro superior."
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 16.3.a) del TREBEP [cite: 97] define la carrera horizontal como la progresión de grado, escalón u otro análogo sin cambiar de puesto de trabajo."
+  },
+  {
+    "id": 97,
+    "temaId": 101,
+    "enunciado": "En la ordenación por grupos descrita en la Ley 1/1986 de la Comunidad de Madrid, los funcionarios del Grupo B requieren la titulación de:",
+    "opciones": [
+      "Título de Bachiller, Formación Profesional de Segundo Grado o equivalente.",
+      "Título de Doctor, Licenciado, Ingeniero, Arquitecto o equivalente.",
+      "Título de Graduado Escolar, Formación Profesional de Primer Grado o equivalente.",
+      "Título de Ingeniero Técnico, Diplomado Universitario, Arquitecto Técnico, Formación Profesional de Tercer Grado o equivalente."
+    ],
+    "correcta": 3,
+    "justificacion": "El artículo 27 de la Ley 1/1986 [cite: 600] asocia al Grupo B la titulación de Ingeniero Técnico, Diplomado Universitario, Arquitecto Técnico, FP3 o equivalente."
+  },
+  {
+    "id": 98,
+    "temaId": 101,
+    "enunciado": "Según la Ley 1/1986 de la C.M., corresponde el desarrollo por vía reglamentaria del régimen de incompatibilidades del personal al servicio de la misma a:",
+    "opciones": [
+      "La Asamblea de Madrid.",
+      "El Tribunal Superior de Justicia de Madrid.",
+      "El Consejo de Gobierno de la Comunidad de Madrid.",
+      "La Consejería de Presidencia."
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 78.2 de la Ley 1/1986 [cite: 844] atribuye explícitamente al Consejo de Gobierno el desarrollo reglamentario del régimen de incompatibilidades."
+  },
+  {
+    "id": 99,
+    "temaId": 101,
+    "enunciado": "El TREBEP tipifica como falta muy grave el 'notorio incumplimiento de las funciones esenciales inherentes al puesto de trabajo'. ¿Qué redacción equivalente de falta muy grave recoge la Ley 1/1986 de la C.M.?",
+    "opciones": [
+      "La falta continuada de puntualidad superior a un mes sin justificación legal.",
+      "La falta notoria de rendimiento cuando suponga inhibición en el cumplimiento de las tareas encomendadas.",
+      "La desobediencia abierta a cualquier orden jerárquica de carácter leve.",
+      "La inasistencia injustificada de tres días consecutivos al lugar de trabajo."
+    ],
+    "correcta": 1,
+    "justificacion": "El artículo 83.f) de la Ley 1/1986 [cite: 866] castiga como muy grave 'la falta notoria de rendimiento cuando suponga inhibición en el cumplimiento de las tareas'."
+  },
+  {
+    "id": 100,
+    "temaId": 101,
+    "enunciado": "Según la Ley 1/1986, si un funcionario es suspendido provisionalmente durante la tramitación de un procedimiento procesal penal, ¿qué retribuciones percibe si se produce incomparecencia por su parte?",
+    "opciones": [
+      "Percibirá el 75% de sus retribuciones básicas en todo caso.",
+      "Percibirá el 50% de su salario.",
+      "No se acreditará haber alguno.",
+      "Se le declarará en excedencia voluntaria y dejará de percibir retribuciones inmediatamente."
+    ],
+    "correcta": 2,
+    "justificacion": "El artículo 64.4 de la Ley 1/1986 [cite: 749, 750] penaliza de manera radical la incomparecencia indicando que en dicho caso 'no se acreditará haber alguno'."
+  }
+]
